@@ -1,0 +1,6 @@
+--- !ruby/object:Game
+turns_left: 11
+correct_word: fevered
+placeholder: _e_e_e_
+wrong_answers:
+- a
